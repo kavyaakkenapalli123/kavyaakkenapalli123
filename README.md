@@ -132,15 +132,7 @@ class Kavya:
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/kavyaakkenapalli123/kavyaakkenapalli123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-</div>
-
-> ⚙️ *To enable the snake animation, set up a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) in your profile repo.*
-
----
 
 ## 💬 Developer Quote
 
@@ -165,11 +157,11 @@ class Kavya:
 <div align="center">
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/kavya-akkenapalli-806263284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:kavyaakkenapalli@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
