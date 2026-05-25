@@ -132,15 +132,6 @@ class Kavya:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kavyaakkenapalli123/kavyaakkenapalli123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-</div>
-
-> ⚙️ *To enable the snake animation, set up a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) in your profile repo.*
-
----
 
 ## 💬 Developer Quote
 
